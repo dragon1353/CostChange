@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>台幣日幣匯率查詢工具</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-search-dollar"></i> 台幣日幣匯率查詢工具</h1>
+        
+        <div class="status-report-section">
+            <h2>執行狀態</h2>
+            <div id="statusBox">閒置</div>
+        </div>
+
+        <div class="functional-block">
+            <h2>查詢條件</h2>
+            
+            <div class="input-group sub-block">
+                <label for="bankSelector">選擇查詢來源</label>
+                <select id="bankSelector" class="form-control">
+                    <option>比率網綜合比較</option>
+                    <option>台灣銀行</option>
+                    <option>第一銀行</option>
+
+                </select>
+            </div>
+
+            <div class="input-group sub-block">
+                <label for="dateSelector">選擇日期 (僅限單一銀行查詢)</label>
+                <input type="date" id="dateSelector" value="{{ default_date }}" class="form-control">
+            </div>
+
+            <div class="button-container">
+                <button id="fetchDataBtn" class="btn btn-secondary"><i class="fas fa-list-ul"></i> 查詢匯率列表</button>                
+                <button id="findNearestBtn" class="btn btn-primary"><i class="fas fa-map-marked-alt"></i> 智慧查詢最近分行</button>
+                <button id="geminiAnalysisBtn" class="btn btn-indigo"><i class="fas fa-brain"></i> Gemini 趨勢分析</button>
+            </div>
+        </div>
+
+        <div class="status-report-section">
+            <h2>查詢結果 (JPY)</h2>
+            <div id="reportContainer" class="report-container">
+                <p class='placeholder-text'>此處將顯示查詢結果</p>
+            </div>
+        </div>
+    </div>
+    <style>
+        .form-control {
+            width: 100%; padding: 10px; box-sizing: border-box; background-color: #333;
+            color: #e0e0e0; border: 1px solid #555; border-radius: 5px; font-size: 1em; margin-top: 5px;
+        }
+    </style>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+    <style>
+        th.sortable {
+            cursor: pointer;
+            position: relative;
+        }
+        th.sortable:hover {
+            background-color: #3f3f3f;
+        }
+        th.sortable::after {
+            content: ' \2195'; /* 雙向箭頭 */
+            position: absolute;
+            right: 8px;
+            opacity: 0.4;
+        }
+        th.sort-asc::after {
+            content: ' \25B2'; /* 向上實心三角 */
+            opacity: 1;
+        }
+        th.sort-desc::after {
+            content: ' \25BC'; /* 向下實心三角 */
+            opacity: 1;
+        }
+    </style>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,716 @@
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<title>日幣匯率,今日台幣換日幣銀行匯率查詢，外幣匯率換算比較 - 比率網</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="提供台灣各家銀行台幣兌換日幣匯率比較及日幣歷史匯率走勢圖，方便你快速找出兌換日幣匯率最佳的銀行。">
+<meta name="keywords" content="日幣，日幣匯率查詢,日幣匯率走勢，台幣兌換日幣匯率">
+ <meta name="Classification" content="Bubiness">
+ <meta name="url" content="https://www.findrate.tw/JPY/">
+ <meta name="identifier-URL" content="https://www.findrate.tw/JPY/">
+ <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+ <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.findrate.tw/currency.php?c=JPY">
+ <meta http-equiv="content-language" content="zh-tw" />
+ <meta property="og:locale" content="zh_TW" />
+ <meta property="og:title" content="日幣匯率,今日日幣銀行匯率查詢，外幣匯率換算比較 - 比率網" />
+ <meta property="og:image" content="https://www.findrate.tw/img/findrate.jpg" />
+ <meta property="og:url" content="https://www.findrate.tw/JPY/" />
+ <meta property="og:description" content="提供台灣各家銀行日幣對台幣匯率比較及日幣歷史匯率走勢圖，方便你快速找出兌換日幣匯率最好的銀行。" />
+ <meta property="og:site_name" content="比率網 FINDRATE.TW" />
+<link href="https://www.findrate.tw/img/bank.css" rel="stylesheet">
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64a629b243dd7000196de9d3&product=sop' async='async'></script>
+</head>
+<script type=application/ld+json>
+{
+	"@context":"https://schema.org",
+	"@type":"BreadcrumbList",
+	"itemListElement":[
+		{"@type":"ListItem","position":1,"item":{"@id":"https://www.findrate.tw/","name":"比率網"}},
+		{"@type":"ListItem","position":2,"item":{"@id":"https://www.findrate.tw/JPY/","name":"日幣匯率"}}
+	]
+}
+</script>
+<script type=application/ld+json>
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "比率網",
+  "alternateName": "比率網",
+  "url": "https://www.findrate.tw/"
+}
+</script>
+<body>
+<div id="WP">
+<div id="warper">
+<div id="Header">
+<div class="banner">
+<div class="tt">銀行匯率比較·匯率查詢·匯率換算 FindRate.TW</div>
+</div>
+<div class="Navi"><a href="https://www.findrate.tw" class="bb">比率網首頁</a> | <a href="https://www.findrate.tw/currency.php">外幣匯率</a> |  <a href="https://www.findrate.tw/exchange-quotation.php">銀行牌告</a> | <a href="https://www.findrate.tw/converter.php">匯率換算</a> | <a href="https://www.findrate.tw/exatm.php">外幣ATM據點</a>    | <a href="https://www.findrate.tw/glossary.html">名詞解釋</a>  | <a href="https://www.findrate.tw/article.php">換匯技巧</a> | <a href="https://www.findrate.tw/daxie.php">數字大寫</a> 
+
+
+
+
+</div></div><!--Header-->
+<div id="#Content" >
+<div id="right">
+<p class="KEY">:: 目前位置 &gt; 外幣匯率 &gt; 日幣(JPY)</p>
+<div id="Title"><h1><img src="../../img/JPY.png" alt="日幣匯率" >日幣匯率比較</h1></div>
+<div style="float:right"><!-- ShareThis BEGIN -->
+<div class="sharethis-inline-share-buttons"></div>
+<!-- ShareThis END --></div>
+  <h2>日幣/台幣兌換推薦銀行<a href="#3"></a></h2> 
+ <p style="color:7eb42f"><font color="red">* 銀行牌告中的「買入」、「賣岀」匯率皆是以<b>銀行角度</b>來看。<br />* 未計入手續費的情況下 </font> </p>
+<table cellspacing="0" cellpadding="0" width="725px" ><tbody><tr>
+        <th width="113">兌換幣別</th>
+        <th width="94">銀行</th>
+        <th width="113">匯率(現金)</th>
+        <th width="403">備註</th>
+        </tr>
+        <tr>
+        <td>台幣換日幣</td>
+        <td>星展銀行</td>
+        <td class="red">0.2019</td>
+        <td>如果你需要買日幣，在星展銀行會比較便宜。 </td>
+        </tr>
+      
+        <tr class=TRA>
+        <td>日幣換台幣</td>
+        <td>玉山銀行</td>
+        <td class="red">0.196</td>
+        <td>如果你要把日幣換成台幣，在玉山銀行會比較划算。&nbsp;</td>
+        </tr>  
+        
+    </table>
+
+ <div class="clear"></div><br />
+ <center> 
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0154844852420477";
+/* hkcompany720x90 */
+google_ad_slot = "5371342629";
+google_ad_width = 725;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+ </center>
+ 
+<h2>日幣對新台幣匯率各銀行外匯牌告匯率比較</h2>
+<p style="color:7eb42f"><font color="red">* 點擊顶欄位可按高低排序匯率</font>  <span style="float:right">單位：新台幣/1日幣 時間：2025-07-08</span></p>
+<table border="0" cellpadding="0" cellspacing="0" width="725px">
+    <tbody><tr> 
+      <th  ><a title=日幣銀行名稱 rel=nofollow href="?type=JPY&order=bank">銀行名稱</a></th><th  ><a title=日幣現鈔買入 rel=nofollow href="?type=JPY&order=in1">現鈔買入</a></th><th  ><a title=日幣現鈔賣出 rel=nofollow href="?type=JPY&order=out1">現鈔賣出</a></th><th  ><a title=日幣即期買入 rel=nofollow href="?type=JPY&order=in2">即期買入</a></th><th  ><a title=日幣即期賣出 rel=nofollow href="?type=JPY&order=out2">即期賣出</a></th><th  ><a title=日幣更新時間 rel=nofollow href="?type=JPY&order=date">更新時間</a></th><th  ><a title=日幣現鈔手續費 rel=nofollow href="?type=JPY&order=m">現鈔手續費</a></th>      </tr>
+ 			<tr >
+			  <td   class="bank"><a href="/bank/29/" title="臺灣銀行牌告匯率表"  >臺灣銀行</a>
+              </td>
+			  <td  class="WordB">0.1895</td>
+			  <td  class="WordB">0.2023</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 免手續費 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/34/" title="遠東商銀牌告匯率表"  >遠東商銀</a>
+              </td>
+			  <td  class="WordB">0.1948</td>
+			  <td  class="WordB">0.2028</td>
+			  <td  class="WordB">0.1979</td>
+			  <td  class="WordB">0.1996</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 總額1%,最低100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/4/" title="元大銀行牌告匯率表"  >元大銀行</a>
+              </td>
+			  <td  class="WordB">0.193</td>
+			  <td  class="WordB">0.2026</td>
+			  <td  class="WordB">0.1972</td>
+			  <td  class="WordB">0.2004</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/26/" title="第一銀行牌告匯率表"  >第一銀行</a>
+              </td>
+			  <td  class="WordB">0.195</td>
+			  <td  class="WordB">0.2024</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/23/" title="渣打銀行牌告匯率表"  >渣打銀行</a>
+              </td>
+			  <td  class="WordB">0.1951</td>
+			  <td  class="WordB">0.2023</td>
+			  <td  class="WordB">0.1966</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$500 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/6/" title="匯豐銀行牌告匯率表"  >匯豐銀行</a>
+              </td>
+			  <td  class="WordB">0.19306</td>
+			  <td  class="WordB">0.20434</td>
+			  <td  class="WordB">0.19706</td>
+			  <td  class="WordB">0.20034</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 台幣總額之0.5%  </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/21/" title="永豐銀行牌告匯率表"  >永豐銀行</a>
+              </td>
+			  <td  class="WordB">0.194</td>
+			  <td  class="WordB">0.2022</td>
+			  <td  class="WordB">0.197</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/5/" title="兆豐銀行牌告匯率表"  >兆豐銀行</a>
+              </td>
+			  <td  class="WordB">0.1896</td>
+			  <td  class="WordB">0.2023</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2009</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 免手續費 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/33/" title="凱基銀行牌告匯率表"  >凱基銀行</a>
+              </td>
+			  <td  class="WordB">0.1953</td>
+			  <td  class="WordB">0.2023</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 台幣總額之1% </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/38/" title="瑞興銀行牌告匯率表"  >瑞興銀行</a>
+              </td>
+			  <td  class="WordB">0.1943</td>
+			  <td  class="WordB">0.2033</td>
+			  <td  class="WordB">0.1963</td>
+			  <td  class="WordB">0.2013</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/19/" title="星展銀行牌告匯率表"  >星展銀行</a>
+              </td>
+			  <td  class="WordB">0.1955</td>
+			  <td  class="WordB">0.2019</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2005</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 總額1%,最低NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/0/" title="三信商銀牌告匯率表"  >三信商銀</a>
+              </td>
+			  <td  class="WordB">0.1897</td>
+			  <td  class="WordB">0.2038</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/16/" title="彰化銀行牌告匯率表"  >彰化銀行</a>
+              </td>
+			  <td  class="WordB">0.1942</td>
+			  <td  class="WordB">0.2022</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 結購外幣現鈔免收 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/22/" title="盤谷銀行牌告匯率表"  >盤谷銀行</a>
+              </td>
+			  <td  class="WordB">--</td>
+			  <td  class="WordB">--</td>
+			  <td  class="WordB">0.1969</td>
+			  <td  class="WordB">0.2009</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 免手續費  </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/27/" title="聯邦銀行牌告匯率表"  >聯邦銀行</a>
+              </td>
+			  <td  class="WordB">0.1947</td>
+			  <td  class="WordB">0.2027</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 台幣總額0.7%,最低NT$100  </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/10/" title="合作金庫牌告匯率表"  >合作金庫</a>
+              </td>
+			  <td  class="WordB">0.1899</td>
+			  <td  class="WordB">0.2025</td>
+			  <td  class="WordB">0.197</td>
+			  <td  class="WordB">0.201</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100,有開戶免收 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/31/" title="華南銀行牌告匯率表"  >華南銀行</a>
+              </td>
+			  <td  class="WordB">0.1938</td>
+			  <td  class="WordB">0.2024</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2009</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/8/" title="富邦銀行牌告匯率表"  >富邦銀行</a>
+              </td>
+			  <td  class="WordB">0.1942</td>
+			  <td  class="WordB">0.2032</td>
+			  <td  class="WordB">0.1969</td>
+			  <td  class="WordB">0.2005</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 總額0.135%,最低NT$100（J卡8折優惠） </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/37/" title="高雄銀行牌告匯率表"  >高雄銀行</a>
+              </td>
+			  <td  class="WordB">0.1955</td>
+			  <td  class="WordB">0.2025</td>
+			  <td  class="WordB">0.197</td>
+			  <td  class="WordB">0.201</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/7/" title="台中銀行牌告匯率表"  >台中銀行</a>
+              </td>
+			  <td  class="WordB">0.1927</td>
+			  <td  class="WordB">0.2027</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/12/" title="土地銀行牌告匯率表"  >土地銀行</a>
+              </td>
+			  <td  class="WordB">0.1911</td>
+			  <td  class="WordB">0.2028</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 免手續費 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/41/" title="台新Richart牌告匯率表"  >台新Richart</a>
+              </td>
+			  <td  class="WordB">--</td>
+			  <td  class="WordB">--</td>
+			  <td  class="WordB">0.1976</td>
+			  <td  class="WordB">0.1995</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/9/" title="台新銀行牌告匯率表"  >台新銀行</a>
+              </td>
+			  <td  class="WordB">0.1948</td>
+			  <td  class="WordB">0.2028</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2003</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 有賬戶免手續費 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/25/" title="玉山銀行牌告匯率表"  >玉山銀行</a>
+              </td>
+			  <td  class="WordB">0.196</td>
+			  <td  class="WordB">0.203</td>
+			  <td  class="WordB">0.197</td>
+			  <td  class="WordB">0.201</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 ATM免收 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/20/" title="板信銀行牌告匯率表"  >板信銀行</a>
+              </td>
+			  <td  class="WordB">0.1948</td>
+			  <td  class="WordB">0.2026</td>
+			  <td  class="WordB">0.1966</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 台幣總額0.5%,最低NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/17/" title="新光銀行牌告匯率表"  >新光銀行</a>
+              </td>
+			  <td  class="WordB">0.1918</td>
+			  <td  class="WordB">0.2024</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/35/" title="郵局牌告匯率表"  >郵局</a>
+              </td>
+			  <td  class="WordB">0.1891</td>
+			  <td  class="WordB">0.2028</td>
+			  <td  class="WordB">--</td>
+			  <td  class="WordB">--</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 免手續費 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/28/" title="臺灣企銀牌告匯率表"  >臺灣企銀</a>
+              </td>
+			  <td  class="WordB">0.1959</td>
+			  <td  class="WordB">0.2039</td>
+			  <td  class="WordB">0.1979</td>
+			  <td  class="WordB">0.2019</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 總額0.7%,最低NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/11/" title="國泰世華牌告匯率表"  >國泰世華</a>
+              </td>
+			  <td  class="WordB">0.1927</td>
+			  <td  class="WordB">0.2027</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$200 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/15/" title="安泰銀行牌告匯率表"  >安泰銀行</a>
+              </td>
+			  <td  class="WordB">0.1897</td>
+			  <td  class="WordB">0.2023</td>
+			  <td  class="WordB">0.1968</td>
+			  <td  class="WordB">0.2008</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 非本行每筆NT100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/39/" title="王道銀行牌告匯率表"  >王道銀行</a>
+              </td>
+			  <td  class="WordB">0.1947</td>
+			  <td  class="WordB">0.2027</td>
+			  <td  class="WordB">0.1976</td>
+			  <td  class="WordB">0.1998</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 最低NT$100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/36/" title="陽信銀行牌告匯率表"  >陽信銀行</a>
+              </td>
+			  <td  class="WordB">0.1914</td>
+			  <td  class="WordB">0.2024</td>
+			  <td  class="WordB">0.1969</td>
+			  <td  class="WordB">0.2009</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/1/" title="上海商銀牌告匯率表"  >上海商銀</a>
+              </td>
+			  <td  class="WordB">0.1947</td>
+			  <td  class="WordB">0.2027</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 本行賣免收,買入每筆100 </td>
+		    </tr>
+            			<tr class=TRA>
+			  <td   class="bank"><a href="/bank/32/" title="華泰銀行牌告匯率表"  >華泰銀行</a>
+              </td>
+			  <td  class="WordB">0.1909</td>
+			  <td  class="WordB">0.2019</td>
+			  <td  class="WordB">0.1969</td>
+			  <td  class="WordB">0.2009</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 每筆NT$100 </td>
+		    </tr>
+            			<tr >
+			  <td   class="bank"><a href="/bank/3/" title="京城銀行牌告匯率表"  >京城銀行</a>
+              </td>
+			  <td  class="WordB">0.1944</td>
+			  <td  class="WordB">0.2035</td>
+			  <td  class="WordB">0.1967</td>
+			  <td  class="WordB">0.2007</td>
+              <td  class="WordB"><!--2025-07-08-->11:28</td>
+              <td  class="WordB" style="font-size:10px;"> 總額0.6% </td>
+		    </tr>
+            			
+</tbody></table>
+<p><br>
+ <center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-0154844852420477";
+/* hkcompany720x90 */
+google_ad_slot = "5371342629";
+google_ad_width = 725;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+<br>
+<table class="NOTET" width="725px" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td><b>注意事項</b></td>
+    </tr>
+    <tr class="TRA">
+        <td>
+            <ol>
+                <li>資料來源：各銀行<B>日幣匯率</B>牌告，由於匯率時刻都在變化，本版僅供參考，實際匯率以銀行交易當時匯率為準。</li>
+                <li>銀行家數會隨資訊來源的穩定與否，不定時增減。</li>
+                <li>感謝Jamie,Hsuivy,Ken,林先生,CCCH,Linjs,Liang-Hsien Yeh,Veronica Cheang,YiChia,Annis,Peter,Maxine,Jojo,黃尼克,Shane,曾櫳震,	JaneChang, charles, charming, 	葉純伶,洪愷駿,Patrick, 黃小姐,Miro,Mike,Gimy, 許,Allen,Kulas等提交手續費資料，僅供參考，如有錯誤，請點擊【<a href="https://www.findrate.tw/submit.php" rel="nofollow">回報問題</a>】。 </li>
+            </ol>
+        </td>
+    </tr>
+</tbody></table>
+</p>
+<h2>日幣歷史匯率走勢圖(三個月)</h2>
+<p><font color="#FF0000">提示：點擊走勢圖頭部的<font size="+1">顏色塊</font>可以顯示/隱藏 對應的走勢</font>.
+<iframe SCROLLING="NO" src="https://historical.findrate.tw/graph.php?cur=JPY&m=3m" width="725" height="350"></iframe>
+<h2>日幣歷史匯率走勢圖(一年)</h2>
+<iframe SCROLLING="NO" src="https://historical.findrate.tw/graph.php?cur=JPY&m=1y" width="725" height="350"></iframe>
+<h2>日幣歷史匯率走勢圖(十年)</h2>
+<iframe SCROLLING="NO" src="https://historical.findrate.tw/graph.php?cur=JPY&m=10y" width="725" height="350"></iframe>
+<a href="https://historical.findrate.tw/JPY/">日幣匯率歷史</a> 
+
+<a href=https://historical.findrate.tw/currencyhis.php?c=JPY&year=2025&month=07&day=07>2025-07-07匯率</a><br>
+<br>
+<h2>相關新聞</h2>
+<div class="newslist">
+    <ul class="">
+     <li>
+ <dl>
+ <dd><h4><a href="https://www.chinatimes.com/realtimenews/20250704004874-260408" target="_blank" rel="nofollow">日政客談少子化「責怪高齡女性無法生育」48歲女歌手回嗆</a></h4><span>2025-07-05</span>
+<p>近日，日本極端保守主義政黨「參政黨」代表神谷宗幣發表街頭演說，談論日本少子化問題時，語出驚人地提到「很抱歉地說，男性和高齡女性是無法生育的」，又批評日本當前政策「過度強調女性就業」，引發48歲女歌手柴田淳的強烈反彈，公開在社群發文反擊：「女性不是為了國家才生孩子！」還怒批：「正因為你們只把女性視為生育的機器，才會看不起那些沒有生育、不能生育或者已經無法生孩子的女性。」 ...</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.thenewslens.com/article/255129" target="_blank" rel="nofollow">美日韓等國接連立法承認，近期火爆的「穩定幣」是什麼？是否存在風險？</a></h4><span>2025-07-05</span>
+<p>6月17日，美國《2025年美國穩定幣引導與創新法案》）在參議院獲得通過；6月10日，韓國總統李在明剛上任幾天，就按照承諾，允許本土企業發行穩定幣。此外，新加坡、日本、韓國、澳洲、印度都啓動了穩定幣立法的工作。穩定幣究竟是什麼？背後又有哪些長處和風險？</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.ctee.com.tw/news/20250705700042-439901" target="_blank" rel="nofollow">換匯族嗨翻！台幣狂升13.3％登最強亞幣 換日幣、人民幣都有甜甜價</a></h4><span>2025-07-05</span>
+<p>持續強升的新台幣，今年來升幅達13.3％，成為最強亞幣，而對美元匯價之外，國人旅遊與台資企業亦有龐大的日圓、人民幣需求，對此兩種幣別新台幣同樣展現強勢，以交叉匯率而言，新台幣兌日圓為4.988，創下史上新高紀錄；兌人民幣交叉匯率為4.038，回到了2006年水準。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://news.cts.com.tw/cts/general/202507/202507042488846.html" target="_blank" rel="nofollow">1：5價位不是夢！ 日圓匯率再探底 一度觸及0.1902</a></h4><span>2025-07-04</span>
+<p>暑假到了，很多國人想飛去日本玩，也許現在就是換匯的最好時機！今 (4)日又出現了最甜日圓價格，台銀日圓現鈔匯率一度觸及0.1902，等於一塊錢新台幣，能夠換到五塊錢日圓，實際一點來試算，假設你要帶5萬元台幣旅費出國，對比4月份時匯率的高點，只是相隔兩個多月的時間，就可以多換得超過5萬日圓，能多吃50碗拉麵，或是多買5張迪士尼門票。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://tw.news.yahoo.com/%E6%96%B0%E5%8F%B0%E5%B9%A3%E7%8B%82%E5%8D%87%E6%88%90%E6%9C%80%E5%BC%B7%E4%BA%9E%E5%B9%A3-%E6%97%A5%E5%9C%93-%E5%BA%A6%E6%8E%A2-0-1902-103103628.html" target="_blank" rel="nofollow">新台幣狂升成最強亞幣 日圓一度探&quot;0.1902&quot;史上最甜</a></h4><span>2025-07-04</span>
+<p>財經中心／陳妍霖 邵延 莊柏驊 台北報導新台幣瘋狂升值，成為最強亞幣，也讓日圓匯率再破新低，7月4號驚見史上最甜價，一度下探到0.1902元，和2個多月前相比，可多換6.8萬日圓，等於可以多吃68碗拉麵，吸引不少民眾瘋狂換匯，網路App一度塞車，銀行臨櫃也湧現不少人。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.cna.com.tw/news/afe/202507040269.aspx" target="_blank" rel="nofollow">專家：日圓偏弱與美日談判僵局有關 估年底可能走升</a></h4><span>2025-07-04</span>
+<p>新台幣升值氣焰高漲，根據台灣銀行最新牌告匯價，日圓現鈔價今天最低觸及0.2025，再現日圓甜甜價。專家指出，日圓近期走弱應跟美日談判陷入僵局有關，但日圓不可能無限走貶，如果談判告一段落後，預期年底日圓兌美元可能升至140。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.gvm.com.tw/article/122531" target="_blank" rel="nofollow">暑假換匯超甜！新台幣升破28.8、日圓逼近0.19，出國省錢全攻略一次看</a></h4><span>2025-07-04</span>
+<p>你也見證「一元換五圓」的日圓奇蹟了嗎？隨著暑假出國潮啟動，新台幣強勢升值，引爆全民換匯熱潮。7月3日新台幣兌美元衝上28.846元，改寫三年來新高；隔日，也就是7月4日新台幣兌日圓更跌破0.2026元大關，部分銀行匯率甚至出現0.19字頭，讓旅客手中的新台幣變得更無所不利。在這波史詩級匯率紅利下，該怎麼換匯最省、怎麼花最划算？本文整理四大換匯攻略，從網銀操作、雙幣卡、外幣ATM與掃碼支付一次搞懂， ...</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6019748" target="_blank" rel="nofollow">新台幣升值狠甩其他亞幣！日圓匯價逼近1:5夢幻價位</a></h4><span>2025-07-04</span>
+<p>截至昨天為止，7月不過短短3個交易日，新台幣已經累計狂飆1.074元或3.73%，升幅遠高於主要亞幣，不僅讓哈日族喜迎換匯甜甜價，近年國人赴韓旅遊普遍，韓元在亞幣當中反向貶值，此時也成為換匯好時機。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.msn.com/zh-tw/money/%E4%B8%80%E8%88%AC/%E7%AE%A1%E4%BB%96%E5%A4%A7%E5%9C%B0%E9%9C%87-0-19%E5%8F%B0%E5%B9%A3%E5%85%8C%E6%97%A5%E5%9C%93%E7%94%9C%E5%88%B0%E7%88%86-%E5%93%88%E6%97%A5%E6%97%8" target="_blank" rel="nofollow">管他大地震！0.19台幣兌日圓甜到爆 哈日族世界末日也要飛日本大撒幣</a></h4><span>2025-07-04</span>
+<p>再過一天，7月5日，恐怕就是日本將發生大海嘯的命定之日，在這個被視為「是芥末日」的重大日子，擔心害怕的人，選擇取消日本之旅，改去別的地方玩；而勇敢的人有福了，今天新台幣兌換日幣的匯率一度下探至0.1902元，刷新歷史低點，引爆全台換匯潮，那怕到了世界的盡頭，還是要到日本狂花猛買，當大爺當到最後一天！</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://udn.com/news/story/7238/8850842" target="_blank" rel="nofollow">日圓貶值 李鎮宇：和美日貿易談判陷入僵局有關 美國明年更緊盯匯率</a></h4><span>2025-07-04</span>
+<p>日圓兌美元匯率貶值，使得日圓兌 台幣匯率 今日再創史上新低價位，台新金控首席經濟學家李鎮宇認為，應和美國與 日本 貿易談判因為日本稻米問題陷入僵局，而引發市場預期心理有關。 他也指出，美國對於各國匯率的問題，明年會比今年更為重視。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://tw.news.yahoo.com/%E6%97%A5%E5%B9%A3%E6%9A%B4%E8%B7%8C%E6%97%85%E9%81%8A%E8%B6%85%E5%88%92%E7%AE%97-%E7%B6%B2%E7%B4%85%E6%9B%9D-%E5%90%83%E4%BD%8F%E7%8E%A9-%E5%85%A8%E8%B4%8F%E5%8F%B0%E7%81%A3" target="_blank" rel="nofollow">日幣暴跌旅遊超划算！網紅曝「吃住玩」全贏台灣 嗆誰還想去國旅</a></h4><span>2025-07-04</span>
+<p>近日一段描述17歲台灣少女「林雅琴」堅持自我認同、拒絕承認「中國台灣省」身份而放棄國際大獎的影片在網路上瘋傳。影片上傳至YouTube短短3天，就吸引超過33萬次觀看，許多台灣網友在留言區感動表示：「身為台灣人，我為妳驕傲，謝謝妹妹。」不過，整段故事其實是虛構，且封面圖片的女主角疑似是AI所生成的。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://tw.news.yahoo.com/%E6%97%A5%E5%9C%93%E5%A4%A9%E5%A4%A9%E7%94%9C-%E4%BB%8A%E6%97%A9%E7%9B%A4%E5%87%BA%E7%8F%BE-0-2026-%E6%AF%94%E6%98%A8%E6%9B%B4%E4%BD%8E-064100499.html" target="_blank" rel="nofollow">日圓天天甜！今早盤出現「0.2026」比昨更低 新台幣1元換5日圓要來了</a></h4><span>2025-07-04</span>
+<p>【記者許麗珍／台北報導】新台幣狂升，3年來收盤首見28字頭，穩居最強亞幣。繼台銀日圓現鈔換匯賣出價昨以「0.2038」作收且追平史上最甜換匯價之後，今天一開盤日圓即開出「0.203」的價位且一路下貶，9時多一度出現「0.2028」更甜的價位，再創日圓最友善換匯價，新台幣1元直接換5日圓的日子有望來臨！</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://udn.com/news/story/7241/8850551" target="_blank" rel="nofollow">日幣「甜甜價」刷新紀錄！他靠1招換到1：0.19 網盛讚：甜到蛀牙</a></h4><span>2025-07-04</span>
+<p>受惠新台幣強勢升值，今（4）日台銀日圓現鈔賣出價一度來到0.2026，創下史上最甜換匯紀錄，10萬元台幣可多換近7萬日圓。PTT網友瘋狂討論此一匯率變動，有人興奮大喊「甜甜價！」，也有人戲謔表示「每天都是史上最甜」，更有網友直言「0.19才叫便宜」，形容匯率行情像在「糖尿病邊緣徘徊」。</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.setn.com/News.aspx?NewsID=1682503" target="_blank" rel="nofollow">政客談少子化點名年長女性 暗黑歌姬開嗆 政客談少子化點名年長女性 暗黑歌姬開嗆</a></h4><span>2025-07-04</span>
+<p>柴田還指出「大家都是從女人肚子裡出生的，好歹對女性多點尊重吧！」她也擔憂地表示：「真的很怕這樣的言論最後會導向把少子高齡化全怪在女性身上，好像變成『因為女人不生孩子所以社會變這樣』，這種想法太可怕了。」 ...</p>
+</dd></dl></li>
+ <li>
+ <dl>
+ <dd><h4><a href="https://www.chinatimes.com/realtimenews/20250704002600-260410" target="_blank" rel="nofollow">日圓換匯1：5時代來了！閃見史上最甜價 網銀APP塞爆</a></h4><span>2025-07-04</span>
+<p>哈日族有福了，新台幣1元兌換5日圓的時代來臨，台銀臨櫃現鈔賣出價，今一早最低來到「0.2025」價位，1元新台幣相當於能換到4.93日圓，數位優惠匯率更出現「0.19字頭」，多家銀行APP也因民眾頻繁換匯一度當機。因聯準 ...</p>
+</dd></dl></li>
+  
+</ul>
+</div>
+<!---right end --->
+</div> 
+<div id="left">
+ 
+<h3>贊助商廣告</h3>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0154844852420477";
+/* 300pic */
+google_ad_slot = "4253531712";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+<h3>貨幣換算器</h3>
+<form class="form-search" onsubmit="return searchKw(this)">
+<p ><span style="float:right; color:#999">(依台灣銀行現金賣出價計算)</span>
+<p class="l30"><b>金額</b><br /> 
+<input name="num" id="num" type="text" maxlength="8" delay="0" value="1" class="input_02" /><br />
+<p class="l30"><b>從</b><br />
+  &nbsp; 
+  <select id="from" name="from" >
+        <option value="TWD"  selected = selected >TWD 台幣</option>
+              <option value="USD" >USD 美金</option>
+<option value="CNY" >CNY 人民幣</option>
+<option value="JPY" >JPY 日圓</option>
+<option value="HKD" >HKD 港幣</option>
+<option value="EUR" >EUR 歐元 </option>
+<option value="GBP" >GBP 英鎊</option>
+<option value="AUD" >AUD 澳幣</option>
+<option value="CAD" >CAD 加拿大幣</option>
+<option value="SGD" >SGD 新加坡幣</option>
+<option value="CHF" >CHF瑞士法郎</option>
+<option value="SEK" >SEK 瑞典幣</option>
+<option value="NZD" >NZD 紐元</option>
+<option value="THB" >THB 泰幣</option>
+<option value="PHP" >PHP 菲國比索</option>
+<option value="IDR" >IDR 印尼幣</option>
+<option value="KRW" >KRW 韓元</option>
+<option value="VND" >VND 越南盾</option>
+<option value="MYR" >MYR 馬來幣</option>
+              </select><br />
+<p class="l30"><b>兌換為</b><br />
+
+     &nbsp; 
+     <select  id="to" name="to" >
+        <option value="TWD" >TWD 台幣</option>
+         <option value="USD" >USD 美金</option>
+<option value="CNY" >CNY 人民幣</option>
+<option value="JPY"  selected = selected >JPY 日圓</option>
+<option value="EUR" >EUR 歐元 </option>
+<option value="HKD" >HKD 港幣</option>
+<option value="GBP" >GBP 英鎊</option>
+<option value="AUD" >AUD 澳幣</option>
+<option value="CAD" >CAD 加拿大幣</option>
+<option value="SGD" >SGD 新加坡幣</option>
+<option value="CHF" >CHF瑞士法郎</option>
+<option value="SEK" >SEK 瑞典幣</option>
+<option value="NZD" >NZD 紐元</option>
+<option value="THB" >THB 泰幣</option>
+<option value="PHP" >PHP 菲國比索</option>
+<option value="IDR" >IDR 印尼幣</option>
+<option value="KRW" >KRW 韓元</option>
+<option value="VND" >VND 越南盾</option>
+<option value="MYR" >MYR 馬來幣</option>
+ 
+
+</select>
+<br />
+<br />
+
+
+<p class="l30"><input type="submit" value="開始計算" id="go"  class="btn02"  />  
+ 
+ </form>
+      
+<script>
+function searchKw(c)
+{	 
+	var a=document.getElementById("from").value;
+	var h=document.getElementById("to").value;
+	var num=document.getElementById("num").value;
+		
+location.href="https://www.findrate.tw/converter/"+encodeURIComponent(a)+"/"+encodeURIComponent(h)+"/"+encodeURIComponent(num)+"/";return false};
+</script>
+
+
+<div style="clear:both"></div>
+ 
+<h3>熱門外幣</h3>
+<UL class="listbtns center">
+<li><a href="/JPY/" title="日幣匯率" class="a_jpy" >日幣</a>
+<li><a href="/USD/" class="a_usd">美金</a>
+<li><a href="/CNY/"  class="a_cny">人民幣</a>
+<li><a href="/EUR/"  class="a_eur">歐元</a>
+<li><a href="/HKD/"  class="a_hkd">港幣</a>
+<li><a href="/GBP/"  class="a_gbp">英鎊</a>
+<li><a href="/AUD/"   class="a_aud">澳幣</a>
+<li><a href="/CAD/"  class="a_cad">加拿大幣</a>
+<li><a href="/SGD/"  class="a_sgd">新加坡幣</a>
+<li><a href="/CHF/" class="a_chf">瑞士法郎</a>
+<li><a href="/ZAR/" class="a_zar">南非幣</a>
+<li><a href="/SEK/" class="a_sek">瑞典幣</a>
+<li><a href="/THB/" class="a_thb">泰幣</a>
+<li><a href="/PHP/" class="a_php">菲國比索</a>
+<li><a href="/IDR/" class="a_idr">印尼幣</a>
+<li><a href="/KRW/" class="a_krw">韓元</a>
+<li><a href="/VND/" class="a_vnd">越南盾</a>
+<li><a href="/MYR/" class="a_myr">馬來幣</a>
+<li><a href="/INR/" class="a_inr">印度披索</a>
+<li><a href="/DKK/" class="a_dkk">丹麥幣</a>
+<li><a href="/NZD/" class="a_nzd">紐元</a>
+<li><a href="/MOP/" class="a_mop">澳門幣</a>
+<li><a href="/MXN/" class="a_mxn">墨西哥比索</a>
+<li><a href="/TRY/" class="a_try">土耳其里拉</a>
+</LI></UL>
+<div class="clear"></div>
+<h3>關於日幣(JPY)</h3>
+<div style="padding:5px; line-height:25px; font-size:14px;">
+<stront>發行銀行</strong> <br />
+Bank of Japan (www.boj.or.jp)<br />
+ 
+<p style="text-indent:2em">日圓（日文：円，日語羅馬字：Yen），又作日元，其紙幣稱為日本銀行券，是日本的官方貨幣，於1871年制定。日圓也經常在美元和歐元之後被當作儲備貨幣。貨幣符號為「¥」，國際標準化組織ISO 4217訂定其標準代號為JPY。其發行製造機構為日本銀行。 </div>
+ 
+  </div><!--left end-->
+<div class="clear"></div>
+</div><!--#Content-->
+<div id="Footer">
+  <p>  銀行匯率比較  © 2025 比率網  Findrate.tw  <a href="https://www.findrate.tw/2023holiday.html">2023行事曆</a> | <a href="https://www.findrate.tw/branch/bankinfo.php">銀行代碼</a>  |  <a href="https://www.findrate.tw/webatm.php">網路ATM</a>  |  <a href="https://www.findrate.tw/atm/atm.php">ATM據點速查</a> | <a href="https://www.findrate.tw/contactus.php" rel="nofollow">聯絡我們</a>  | <a href="../../disclaimer.html" rel="nofollow" >Disclaimer</a> <img src="https://www.findrate.tw/img/logo1.gif"  height="30"  /></p> </div>
+ <div style="display:none"> <script src="https://www.findrate.tw/js/tj.js" type="text/javascript"></script>
+<!--Footer-->
+</body>
+</html> <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.findrate.tw/img/jquery.scrolltotop.js"></script>
+</body></html>

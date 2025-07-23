@@ -1,0 +1,320 @@
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+ <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>銀行匯率查詢，外幣匯率換算比較 - 比率網</title>
+<link href="https://www.findrate.tw/img/index.css" rel="stylesheet">
+
+</head>
+<body>
+<div id="WP">
+<div id="warper">
+<div id="Header">
+<div class="banner">
+<div class="tt">銀行匯率比較·匯率查詢·匯率換算 FindRate.TW</div>
+</div>
+<div class="Navi"><a href="https://www.findrate.tw" class="bb">比率網首頁</a> | <a href="https://www.findrate.tw/currency.php">外幣匯率</a> |  <a href="https://www.findrate.tw/exchange-quotation.php">銀行牌告</a> | <a href="https://www.findrate.tw/converter.php">匯率換算</a> | <a href="https://www.findrate.tw/exatm.php">外幣ATM據點</a>    | <a href="https://www.findrate.tw/glossary.html">名詞解釋</a>  | <a href="https://www.findrate.tw/article.php">換匯技巧</a> | <a href="https://www.findrate.tw/daxie.php">數字大寫</a> 
+
+
+
+
+</div></div><!--Header-->
+<div id="#Content" >
+<div id="right">
+<p class="KEY">:: 目前位置 &gt; 外幣匯率 </p>
+
+
+<div style="float:right"><!-- AddThis Button BEGIN 
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" >
+-->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url="https://www.findrate.tw/">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_favorites"></a>
+<a class="addthis_button_compact"></a> 
+<a class="addthis_counter addthis_bubble_style"></a>
+
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50ae33ef4e06171e"></script>
+<!-- AddThis Button END --></div>
+<div class="clear"></div><br />
+<UL class="listbtns center">
+<li><a href="/JPY/" title="日幣匯率" class="a_jpy" >日幣</a>
+<li><a href="/USD/" title="美金匯率" class="a_usd">美金</a>
+<li><a href="/CNY/"  title="人民幣匯率" class="a_cny">人民幣</a>
+<li><a href="/EUR/"  title="歐元匯率" class="a_eur">歐元</a>
+<li><a href="/HKD/" title="港幣匯率"  class="a_hkd">港幣</a>
+<li><a href="/GBP/"  title="英鎊匯率" class="a_gbp">英鎊</a>
+<li><a href="/AUD/"  title="澳幣匯率"  class="a_aud">澳幣</a>
+<li><a href="/CAD/"  title="加拿大匯率" class="a_cad">加拿大幣</a>
+<li><a href="/SGD/"  title="新加坡匯率" class="a_sgd">新加坡幣</a>
+<li><a href="/CHF/" title="瑞士法郎匯率"  class="a_chf">瑞士法郎</a>
+<li><a href="/ZAR/" title="南非幣匯率"  class="a_zar">南非幣</a>
+<li><a href="/SEK/" title="瑞典幣匯率" class="a_sek">瑞典幣</a>
+<li><a href="/THB/" title="泰幣匯率" class="a_thb">泰幣</a>
+<li><a href="/PHP/" title="菲國比索匯率" class="a_php">菲國比索</a>
+<li><a href="/IDR/" title="印尼幣匯率" class="a_idr">印尼幣</a>
+<li><a href="/KRW/" title="韓幣匯率" class="a_krw">韓元</a>
+<li><a href="/VND/" title="越南盾匯率" class="a_vnd">越南盾</a>
+<li><a href="/MYR/" title="馬來幣匯率" class="a_myr">馬來幣</a>
+<li><a href="/INR/" title="印的披索匯率" class="a_inr">印度披索</a>
+<li><a href="/DKK/" title="丹麥幣匯率" class="a_dkk">丹麥幣</a>
+<li><a href="/NZD/" title="紐元匯率" class="a_nzd">紐元</a>
+<li><a href="/MOP/" title="澳門幣匯率" class="a_mop">澳門幣</a>
+<li><a href="/MXN/" title="墨西哥比索匯率" class="a_mxn">墨西哥比索</a>
+<li><a href="/TRY/" title="土耳其里拉匯率" class="a_try">土耳其里拉</a>
+</LI></UL>
+</p><br />
+<div class="clear"></div>
+<br />
+<h2>台幣換外幣推薦銀行（銀行外幣現金賣出最低）</h2>
+<table border="0" cellpadding="0" cellspacing="0" width="725px">
+    <tbody><tr>
+    
+ <th width="15%">外幣</th>
+  <th width="15%">最佳銀行</th>
+  <th width="13%">現金買入</th>
+   <th width="13%">現金賣出</th>
+   <th width="15%">更新時間</th>
+
+      </tr>
+      
+                  
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/USD.png"   width="30" height="25"><a href=/USD/>美金</td>
+             <td class="bank"><a href=/bank/32/>華泰銀行</a></td>
+              <td class="WordB">29.03000</td>
+             <td class="WordB">29.57500</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/EUR.png"   width="30" height="25"><a href=/EUR/>歐元</td>
+             <td class="bank"><a href=/bank/28/>臺灣企銀</a></td>
+              <td class="WordB">33.92000</td>
+             <td class="WordB">34.92000</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/HKD.png"   width="30" height="25"><a href=/HKD/>港幣</td>
+             <td class="bank"><a href=/bank/1/>上海商銀</a></td>
+              <td class="WordB">3.63400</td>
+             <td class="WordB">3.78100</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/GBP.png"   width="30" height="25"><a href=/GBP/>英鎊</td>
+             <td class="bank"><a href=/bank/25/>玉山銀行</a></td>
+              <td class="WordB">39.23000</td>
+             <td class="WordB">40.23000</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/AUD.png"   width="30" height="25"><a href=/AUD/>澳幣</td>
+             <td class="bank"><a href=/bank/37/>高雄銀行</a></td>
+              <td class="WordB">18.96000</td>
+             <td class="WordB">19.56000</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/CAD.png"   width="30" height="25"><a href=/CAD/>加拿大幣</td>
+             <td class="bank"><a href=/bank/37/>高雄銀行</a></td>
+              <td class="WordB">21.29000</td>
+             <td class="WordB">21.87000</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/SGD.png"   width="30" height="25"><a href=/SGD/>新加坡幣</td>
+             <td class="bank"><a href=/bank/19/>星展銀行</a></td>
+              <td class="WordB">22.76500</td>
+             <td class="WordB">23.18300</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/CHF.png"   width="30" height="25"><a href=/CHF/>瑞士法郎</td>
+             <td class="bank"><a href=/bank/29/>臺灣銀行</a></td>
+              <td class="WordB">36.20000</td>
+             <td class="WordB">37.40000</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/JPY.png"   width="30" height="25"><a href=/JPY/>日幣</td>
+             <td class="bank"><a href=/bank/28/>臺灣企銀</a></td>
+              <td class="WordB">0.19550</td>
+             <td class="WordB">0.20350</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/NZD.png"   width="30" height="25"><a href=/NZD/>紐元</td>
+             <td class="bank"><a href=/bank/37/>高雄銀行</a></td>
+              <td class="WordB">17.33000</td>
+             <td class="WordB">17.93000</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/THB.png"   width="30" height="25"><a href=/THB/>泰幣</td>
+             <td class="bank"><a href=/bank/22/>盤谷銀行</a></td>
+              <td class="WordB">0.80200</td>
+             <td class="WordB">0.97200</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/PHP.png"   width="30" height="25"><a href=/PHP/>菲國比索</td>
+             <td class="bank"><a href=/bank/5/>兆豐銀行</a></td>
+              <td class="WordB">0.45900</td>
+             <td class="WordB">0.57800</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/IDR.png"   width="30" height="25"><a href=/IDR/>印尼幣</td>
+             <td class="bank"><a href=/bank/5/>兆豐銀行</a></td>
+              <td class="WordB">0.00150</td>
+             <td class="WordB">0.00210</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/KRW.png"   width="30" height="25"><a href=/KRW/>韓元</td>
+             <td class="bank"><a href=/bank/5/>兆豐銀行</a></td>
+              <td class="WordB">0.01980</td>
+             <td class="WordB">0.02300</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/VND.png"   width="30" height="25"><a href=/VND/>越南盾</td>
+             <td class="bank"><a href=/bank/5/>兆豐銀行</a></td>
+              <td class="WordB">0.00090</td>
+             <td class="WordB">0.00130</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/MYR.png"   width="30" height="25"><a href=/MYR/>馬來幣</td>
+             <td class="bank"><a href=/bank/29/>臺灣銀行</a></td>
+              <td class="WordB">5.92400</td>
+             <td class="WordB">7.44900</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr  >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/CNY.png"   width="30" height="25"><a href=/CNY/>人民幣</td>
+             <td class="bank"><a href=/bank/9/>台新銀行</a></td>
+              <td class="WordB">4.00570</td>
+             <td class="WordB">4.13570</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+                       
+                    <tr class=TRA >
+                      
+             <td   class="flag"><img src="https://www.findrate.tw/img/MOP.png"   width="30" height="25"><a href=/MOP/>澳門幣</td>
+             <td class="bank"><a href=/bank/5/>兆豐銀行</a></td>
+              <td class="WordB">3.37600</td>
+             <td class="WordB">3.88500</td>
+             <td class="WordB">2025-07-23 09:48</td>
+       
+                        
+                    </tr>
+               			
+</tbody></table>
+ 
+
+<!---right end --->
+</div> 
+<div id="left">
+ 
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0154844852420477";
+/* 300pic */
+google_ad_slot = "4253531712";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="https//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+  </div><!--left end-->
+<div class="clear"></div>
+
+</div><!--#Content-->
+<div id="Footer">
+  <p>  銀行匯率比較  © 2025 比率網  Findrate.tw  <a href="https://www.findrate.tw/2023holiday.html">2023行事曆</a> | <a href="https://www.findrate.tw/branch/bankinfo.php">銀行代碼</a>  |  <a href="https://www.findrate.tw/webatm.php">網路ATM</a>  |  <a href="https://www.findrate.tw/atm/atm.php">ATM據點速查</a> | <a href="https://www.findrate.tw/contactus.php" rel="nofollow">聯絡我們</a>  | <a href="../../disclaimer.html" rel="nofollow" >Disclaimer</a> <img src="https://www.findrate.tw/img/logo1.gif"  height="30"  /></p> </div>
+ <div style="display:none"> <script src="https://www.findrate.tw/js/tj.js" type="text/javascript"></script>
+<!--Footer-->
+</body>
+</html><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.findrate.tw/img/jquery.scrolltotop.js"></script>
+</body></html>
