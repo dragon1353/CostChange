@@ -35,7 +35,6 @@ This application doesn't just tell you *what* the exchange rate is; it tells you
 
 The application follows a **Service-Oriented Architecture (SOA)** with a clean separation between the frontend presentation, backend logic, and external API integrations.
 
-```mermaid
 graph TD
     User[User Interface (HTML/JS)] -->|REST API| Flask[Flask Backend]
     
