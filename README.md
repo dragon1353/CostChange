@@ -123,7 +123,6 @@ Plaintext
 
 smart-currency-insight/
 ├── agent/                  # (Optional) Future agentic capabilities
-
 ├── static/
 │   ├── css/style.css       # Modern Dark UI Styling
 │   └── js/main.js          # Frontend Logic & Charting
